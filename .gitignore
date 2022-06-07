@@ -1,0 +1,4 @@
+/config.ini
+/ca/ca_bundle.crt
+/ca/certificate.crt
+/ca/private.key
